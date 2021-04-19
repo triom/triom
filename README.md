@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @triom
 - 👀 I’m interested in frontend and backend development...
 - 🌱 I’m currently learning computer science ingineering ...
-- 💞️ I’m looking to collaborate on open source projects python, java or javascriipt
+- 💞️ I’m looking to collaborate on open source projects c, c++, python, java or javascriipt
 - 📫 How to reach me via my email triomphantesonwa@gmail.com
 
 <!---
